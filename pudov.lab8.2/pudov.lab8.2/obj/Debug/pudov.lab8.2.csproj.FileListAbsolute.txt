@@ -1,0 +1,11 @@
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.lab8.2\pudov.lab8.2\obj\Debug\pudov.lab8.2.csproj.AssemblyReference.cache
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.lab8.2\pudov.lab8.2\obj\Debug\pudov.lab8.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.lab8.2\pudov.lab8.2\obj\Debug\pudov.lab8._2.Form1.resources
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.lab8.2\pudov.lab8.2\obj\Debug\pudov.lab8._2.Properties.Resources.resources
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.lab8.2\pudov.lab8.2\obj\Debug\pudov.lab8.2.csproj.GenerateResource.cache
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.lab8.2\pudov.lab8.2\obj\Debug\pudov.lab8.2.csproj.CoreCompileInputs.cache
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.lab8.2\pudov.lab8.2\bin\Debug\pudov.lab8.2.exe.config
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.lab8.2\pudov.lab8.2\bin\Debug\pudov.lab8.2.exe
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.lab8.2\pudov.lab8.2\bin\Debug\pudov.lab8.2.pdb
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.lab8.2\pudov.lab8.2\obj\Debug\pudov.lab8.2.exe
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.lab8.2\pudov.lab8.2\obj\Debug\pudov.lab8.2.pdb
